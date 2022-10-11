@@ -10,7 +10,6 @@ namespace Cars_and_Used_Cars
 {
      public class UsedCar : Car
      {
-      
        public double Mileage { get; set; }
 
         //We want to make a constructor that passes values up to the parent and
@@ -21,9 +20,7 @@ namespace Cars_and_Used_Cars
       {
             this.Mileage = Mileage;
       }
-        
 
-        
         public string UsedCarInfo(string make, string model, int year, decimal price, double mileage)
         {
             return (make, model, year, price, mileage).ToString();

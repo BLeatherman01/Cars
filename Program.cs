@@ -6,8 +6,6 @@ namespace Cars_and_Used_Cars
     {
         static void Main(string[] args)
         {
-           
-            
             Car c = new Car();
             
             List<Car> carsInventory = new List<Car>(); 
@@ -28,11 +26,7 @@ namespace Cars_and_Used_Cars
            c.RemoveCar(carsInventory);
             //Shows list after previous car was removed
            c.ListOfCars(carsInventory);
-
-
-
            
-        }
-        
+        }  
     }
 }
