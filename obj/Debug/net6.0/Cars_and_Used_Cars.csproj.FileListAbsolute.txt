@@ -1,0 +1,15 @@
+C:\Users\bleat\source\repos\Cars_and_Used_Cars\obj\Debug\net6.0\Cars_and_Used_Cars.csproj.AssemblyReference.cache
+C:\Users\bleat\source\repos\Cars_and_Used_Cars\obj\Debug\net6.0\Cars_and_Used_Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bleat\source\repos\Cars_and_Used_Cars\obj\Debug\net6.0\Cars_and_Used_Cars.AssemblyInfoInputs.cache
+C:\Users\bleat\source\repos\Cars_and_Used_Cars\obj\Debug\net6.0\Cars_and_Used_Cars.AssemblyInfo.cs
+C:\Users\bleat\source\repos\Cars_and_Used_Cars\obj\Debug\net6.0\Cars_and_Used_Cars.csproj.CoreCompileInputs.cache
+C:\Users\bleat\source\repos\Cars_and_Used_Cars\bin\Debug\net6.0\Cars_and_Used_Cars.exe
+C:\Users\bleat\source\repos\Cars_and_Used_Cars\bin\Debug\net6.0\Cars_and_Used_Cars.deps.json
+C:\Users\bleat\source\repos\Cars_and_Used_Cars\bin\Debug\net6.0\Cars_and_Used_Cars.runtimeconfig.json
+C:\Users\bleat\source\repos\Cars_and_Used_Cars\bin\Debug\net6.0\Cars_and_Used_Cars.dll
+C:\Users\bleat\source\repos\Cars_and_Used_Cars\bin\Debug\net6.0\Cars_and_Used_Cars.pdb
+C:\Users\bleat\source\repos\Cars_and_Used_Cars\obj\Debug\net6.0\Cars_and_Used_Cars.dll
+C:\Users\bleat\source\repos\Cars_and_Used_Cars\obj\Debug\net6.0\refint\Cars_and_Used_Cars.dll
+C:\Users\bleat\source\repos\Cars_and_Used_Cars\obj\Debug\net6.0\Cars_and_Used_Cars.pdb
+C:\Users\bleat\source\repos\Cars_and_Used_Cars\obj\Debug\net6.0\Cars_and_Used_Cars.genruntimeconfig.cache
+C:\Users\bleat\source\repos\Cars_and_Used_Cars\obj\Debug\net6.0\ref\Cars_and_Used_Cars.dll
